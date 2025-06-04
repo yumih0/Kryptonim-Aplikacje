@@ -47,6 +47,7 @@ data class Geo(
 
 data class PostAndUser(
     val post: Post,
-    val user: User
+    val user: User,
+    val isFavorite: Boolean = false
 )
 
