@@ -45,11 +45,11 @@
 
  ![Nagrywanieekranu2025-06-04093601-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/603c2432-a1e9-4649-957e-b9e20ea8b285)
 
-- **Informacja o limicie polubionych postów:**
+-  **Informacja o limicie polubionych postów:**
 
 ![Nagrywanieekranu2025-06-04093630-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/810660d7-f18c-4738-91b5-9d1907363bd7)
 
-- - **Wyszukiwanie postów:**
+-  **Wyszukiwanie postów:**
 
 ![Nagrywanieekranu2025-06-04092945-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/348ef41e-3659-411e-8b93-610e6fbd4dc2)
 
